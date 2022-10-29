@@ -1,0 +1,24 @@
+Desenvolva um programa que permita determinar informação sobre um conjunto de linhas de texto introduzidas pelo utilizador.
+O programa deve ler um máximo de 10 linhas de texto fornecidas pelo utilizador
+(podem ser menos, uma vez que o utilizador deve poder terminar a introdução de dados fornecendo uma linha vazia).
+
+Após a leitura das linhas de texto, o programa deve disponibilizar um menu que permita ao utilizador solicitar as seguintes operações:
+
+1. Escrever a linha com mais caracteres
+2. Listar todas as linhas com um número de caracteres inferior a um valor dado pelo utilizador
+3. Escrever a linha com mais vogais
+4. Listar todas as linhas que incluem uma palavra dada pelo utilizador
+5. Saber se uma linha dada pelo utilizador está incluída no conjunto de linhas em análise (fazer a
+comparação sem considerar a distinção entre letras maiúsculas e minúsculas)
+6. Fornecer novo conjunto de linhas que substituirá o que está em utilização (máximo de 10 linhas
+como anteriormente)
+7. Sair do programa (o programa só deve terminar quando esta opção for solicitada)
+
+Fazer um menu
+Ler um max de 10 linhas
+Permitir adicionar caracteres a linha
+Listar as linhas com numero de caracteres inferiores a x
+Listar todas as que tem uma certa palavra dada pelo utilizador
+
+FEITO
+aceita até 10 linhas condicionado se o user der uma linha vazia
